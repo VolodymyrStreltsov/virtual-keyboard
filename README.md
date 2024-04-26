@@ -2,4 +2,4 @@
 
 Technologies: HTML, CSS, JS
 
-<a href='https://vladimirsteltsov.github.io/virtual-keyboard/'>Live</a>
+[Live](https://volodymyrstreltsov.github.io/virtual-keyboard/)
